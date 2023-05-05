@@ -27,3 +27,14 @@ Our project has the following features.
 3. Open Git Bash and put the command
 `git pull origin` to Get the latest update of the main branch to the local master branch 
 4. Now put the command `git branch <branch name>` to create a local working branch to work on the project;
+
+# 4. Contributors
+
+Thank you to the following contributors who have helped to improve this project:
+
+| Name  | Email | Phone |
+| ------------- | ------------- | ------------ |
+| Muhammad Mutasim Billah  | mutasim.billah@bjitacademy.com  | 01715754835|
+|Md. Atiqul Islam  | atuqul.islam@bjitacademy.com  |01578451296 |
+|Md. Mahmudul Hasan Sheshir| Hasan.sheshir@bjitacademy.com|01945781236|
+|Tashdid Alam|tashdid.alam@gmail.com |01755448899|
