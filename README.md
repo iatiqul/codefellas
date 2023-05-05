@@ -18,3 +18,12 @@ Our project has the following features.
 
 ## Future features
 - Updating the chatbot to ensure a more interactive AI experience.
+
+# 3. Installation 
+*Git is a popular version control system used by software developers to manage their source code. It allows multiple developers to work on the same project simultaneously, keep track of changes made to the code, and revert to previous versions if necessary. Installing Git on your computer is the first step to start using it.* 
+1. Go to the Git website: The first step is to go to the [Git website](https://git-scm.com/) and download the appropriate version of Git for your operating system. Git is available for Windows, Mac, and Linux.
+2. Clone the repo 
+`git clone git@github.com:iatiqul/codefellas.git`
+3. Open Git Bash and put the command
+`git pull origin` to Get the latest update of the main branch to the local master branch 
+4. Now put the command `git branch <branch name>` to create a local working branch to work on the project;
